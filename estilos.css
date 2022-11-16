@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 #header {
     padding-top: 23px;
 }
@@ -118,3 +119,49 @@ li.skill-block_skill {
     font: inherit;
     vertical-align: baseline;
 }
+=======
+#framento{
+    align-items: left;
+    padding-top: 3px;
+    background-size:25px 50px;
+    display:left ;
+    position: relative;
+    padding-right: 0px; 
+}
+
+#framento2{
+    align-items: right;
+  padding-top: 200px;
+  background-size:25px 50px;
+  display:right ;
+  position: relative;
+  padding-right: 0px;
+}
+
+#imagen{
+    align-items: right;
+    padding-top: 20px;
+    background-size:25px 50px;
+    display:right ;
+    position: relative;
+    padding-right: 100px;    
+}
+
+#framento3{
+    align-items: right;
+  padding-top: 200px;
+  background-size:25px 50px;
+  display:right ;
+  position: relative;
+  padding-right: 0px;
+}
+
+#framento4{
+    align-items: right;
+  padding-top: 500px;
+  background-size:25px 50px;
+  display:right ;
+  position: relative;
+  padding-right: 500px;
+}
+>>>>>>> Stashed changes
